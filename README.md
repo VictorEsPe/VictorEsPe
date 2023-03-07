@@ -15,15 +15,15 @@
 
 ##
 
-<a href="https://github.com/VictorEsPe/Projeto-Mario">
+<a href="https://github.com/VictorEsPe/Projeto-Mario" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=Projeto-Mario" />
 </a>
-<a href="https://github.com/VictorEsPe/Componente-de-avaliacao-interativo">
+<a href="https://github.com/VictorEsPe/Componente-de-avaliacao-interativo" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=Componente-de-avaliacao-interativo" />
 </a>
-<a href="https://github.com/VictorEsPe/DoctorCare">
+<a href="https://github.com/VictorEsPe/DoctorCare" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=DoctorCare" />
 </a>
-<a href="https://github.com/VictorEsPe/Certificard">
+<a href="https://github.com/VictorEsPe/Certificard" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=Certificard" />
 </a>
