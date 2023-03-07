@@ -15,15 +15,15 @@
 
 ##
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/VictorEsPe/Projeto-Mario">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=Projeto-Mario" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/VictorEsPe/Componente-de-avaliacao-interativo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=Componente-de-avaliacao-interativo" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/VictorEsPe/DoctorCare">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=DoctorCare" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/VictorEsPe/Certificard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=Certificard" />
 </a>
