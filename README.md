@@ -15,6 +15,9 @@
 
 ##
 
+<a href="https://github.com/VictorEsPe/Carrossel-Red-Dead-Redemption">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=Carrossel-Red-Dead-Redemption" />
+</a>
 <a href="https://github.com/VictorEsPe/Projeto-Mario">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=Projeto-Mario" />
 </a>
