@@ -30,5 +30,3 @@
 <a href="https://github.com/VictorEsPe/Certificard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=Certificard" />
 </a>
-
-![snake gif](https://github.com/VictorEsPe/VictorEsPe/blob/output/github-contribution-grid-snake.svg)
