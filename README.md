@@ -30,3 +30,6 @@
 <a href="https://github.com/VictorEsPe/Certificard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=Certificard" />
 </a>
+<a href="https://github.com/VictorEsPe/tiktok-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorEsPe&theme=vision-friendly-dark&bg_color=00000000&repo=tiktok-project" />
+</a>
